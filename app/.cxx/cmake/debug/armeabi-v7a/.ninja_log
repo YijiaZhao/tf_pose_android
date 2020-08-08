@@ -1,0 +1,15 @@
+# ninja log v5
+1	1339	617468398	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+1343	1556	617468398	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+3	1418	617468659	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+1418	1904	617468660	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+3	1348	617468760	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+1348	1837	617468761	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+3	1352	617468891	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+1352	1544	617468891	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+3	2337	617470835	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+2337	2889	617470836	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+4	2952	617472476	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+2953	3484	617472477	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
+279	4030	618580455	CMakeFiles/native-lib.dir/com_example_mnistandroid_pafprocess.cpp.o	bce29f4573314b72
+4030	4927	618580456	D:/android_studio_project/MnistToAndroid-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	baf850a67df8ec7b
